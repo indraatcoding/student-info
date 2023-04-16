@@ -1,0 +1,32 @@
+int int = 10
+
+
+
+show databases;
+
+create database StudentInfo;
+
+-- use StudentInfo;
+
+-- CREATE TABLE StudentInfo (
+--     ID int primary key,
+--     StudentName varchar(40),
+--     Mobile varchar(40),
+--     Address varchar(40),
+--     City varchar(40) 
+-- );
+
+-- INSERT INTO StudentInfo (ID, StudentName, Mobile, Address, City)
+-- VALUES (2, 'Shiv Sharma', '8887588743', 'Kashipur Kanpur', 'Kanpur');
+
+-- select * from StudentInfo;
+
+
+
+
+
+-- ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '12345123';
+
+-- flush privileges;
+
+
